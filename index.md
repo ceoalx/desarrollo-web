@@ -1,8 +1,7 @@
 ## Bienvenido a mi blog Alion.pro
 
-You can use the [editor on GitHub](https://github.com/ceoalx/desarrollo-web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En este blog, se mostrarás ciertas fraces célebres de diferentes personajes que han marcado la historia de la humidad a lo largo de la historia.
+Si conoces de más información sobre este tema, estaría encantado de que me dejes un comentario al respecto.
 
 ### Markdown
 

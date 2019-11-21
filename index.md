@@ -12,26 +12,36 @@ Estas frases suelen ser frases sabias y en otros casos frases motivadoras. Tiene
 
 
 # Las mejores frases 
+
+  1. No hay que ir para atrás ni para darse impulso (Lao Tsé).
+     Una frase motivadora que aconseja seguir siempre nuestro camino a pesar de las adversidades.
+  2. No hay caminos para la paz; la paz es el camino (Mahatma Gandhi)
+    Gandhi nos dejó para la historia esta preciosa frase sobre la paz.
+
+  3. Haz el amor y no la guerra (John Lennon)
+    El cantante John Lennon siempre tuvo una mentalidad pacificadora. 
+    
 ## Las frases más usadas
+
+   - Para trabajar basta estar convencido de una cosa: que trabajar es menos aburrido que divertirse (Charles Baudelaire)
+      El trabajo, a pesar de que siempre apetezca hacerlo, es bueno para nuestra salud mental.
+    -Lo peor que hacen los malos es obligarnos a dudar de los buenos (Jacinto Benavente)
+      Siempre es mejor ser honrado aunque a veces podamos creer lo contrario.
+    -Las guerras seguirán mientras el color de la piel siga siendo más importante que el de los ojos (Bob Marley)
+      El racismo y los prejuicios han sido la causa de muchas guerras.
+      
 ### Las fraces que marcaron un cambio
 
-- Bulleted
-- List
+   -Aprende a vivir y sabrás morir bien (Confucio)
+   La vida hay que disfrutarla en cada momento y no estar muerto en vida.
 
-1. Numbered
-2. List
+   -Cada día sabemos más y entendemos menos (Albert Einstein)
+    No importa que cada vez haya más conocimiento si no lo sabemos aplicar.
+    
+   -El mundo no está en peligro por las malas personas sino por aquellas que permiten la maldad (Albert Einstein)
+    Siempre habrá gente mala, pero no podemos dejar que triunfen.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Contactanos
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ceoalx/desarrollo-web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Si tienes información que aportar a este blog, contactanos al correo ceoalx@gmail.com

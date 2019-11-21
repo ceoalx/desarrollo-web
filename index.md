@@ -2,15 +2,16 @@
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Blog Alexander Paredes
+## Tarea de Desarrollo de aplicaciones red
+### Tarea 1
 
-- Bulleted
-- List
+- Blog
+- Lista de datos
 
-1. Numbered
-2. List
+1. Serie Favorita
+2. Lenguaje de programación 
+3. Sobre mi
 
 **Bold** and _Italic_ and `Code` text
 

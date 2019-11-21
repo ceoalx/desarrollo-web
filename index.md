@@ -3,16 +3,17 @@
 En este blog, se mostrarás ciertas fraces célebres de diferentes personajes que han marcado la historia de la humidad a lo largo de la historia.
 Si conoces de más información sobre este tema, estaría encantado de que me dejes un comentario al respecto.
 
-### Markdown
+### De que trata
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A lo largo de la historia, son muchos los personajes conocidos que han pronunciado o escrito frases que se han hecho famosas. Frases que por su excepcional contenido han pasado de boca en boca, pues generalmente ofrecen conocimiento muy valioso en pocas palabras. 
 
-```markdown
-Syntax highlighted code block
+Estas frases suelen ser frases sabias y en otros casos frases motivadoras. Tienen su génesis en momentos históricos o bien en reflexiones dignas de los mejores pensadores.
 
-# Header 1
-## Header 2
-### Header 3
+
+
+# Las mejores frases 
+## Las frases más usadas
+### Las fraces que marcaron un cambio
 
 - Bulleted
 - List

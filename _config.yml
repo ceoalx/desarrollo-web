@@ -1,1 +1,4 @@
 theme: jekyll-theme-architect
+paginate: 5
+plugins:
+  -jekyll-paginate
